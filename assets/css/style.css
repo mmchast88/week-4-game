@@ -1,0 +1,76 @@
+
+body {
+	background-image: url(../images/seigaiha.png);
+
+}
+
+h1 {
+	font-size: 40px;
+	background-color: orange;
+	color: white;
+	width: 30%;
+	height: 80px;
+	text-align: center;
+	margin-top: 15px;
+	padding-top: 30px;
+	margin-bottom: 15px;
+	
+}
+
+#gameRules {
+	background-color: lightgrey;
+	height: 400px;
+	width: 620px;
+	font-size: 20px;
+	padding-top: 5px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-family: 'Lora', serif;
+	color: teal;
+	
+}
+
+#targetNumberDiv {
+	height: 200px;
+	width: 350px;
+	background-color: green;
+	font-size: 40px;
+}
+
+#winsAndlosses {
+   height: 200px;
+   width: 150px;
+   background-color: limegreen;
+   position: absolute;
+   left:375px;
+   top:560px;
+   padding-left: 10px;
+   margin-left: -5px;
+
+   
+}
+
+#gemButtons {
+	float: left;
+	padding-bottom: 15px;
+	padding-top: 10px;
+
+
+}
+
+#totalScoreDiv {
+    height: 200px;
+	width: 350px;
+	background-color: teal;
+	margin-top: 130px;
+	padding-left: 5px;
+
+
+}
+
+label {
+	font-size: 40px;
+	
+}
